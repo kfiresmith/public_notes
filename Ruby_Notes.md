@@ -34,6 +34,25 @@ else
   ...
 end
 ```
+**One-line conditionals**
+```ruby
+puts "var over ten" if my_var > 10
+```
+**Negated conditional**
+```ruby
+unless my_var > 10
+  puts my_var
+end
+```
+#### Important Methods:  Conversions
+**Convert to integer**
+```ruby
+user_input = gets.to_i
+```
+**Convert to string**
+```ruby
+some_number.to_s
+```
 
 
 ### Resources
