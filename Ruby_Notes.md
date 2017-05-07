@@ -87,6 +87,10 @@ some_number.to_s
 some_list.each do |my_list_item|
   puts my_list_item
 end
+
+some_hash.each do |key, value|
+  ... key ... value
+end
 ```
 
 ### Resources
