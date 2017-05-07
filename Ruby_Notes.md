@@ -37,7 +37,7 @@ puts my_hash["old bannana"]
 nested_hash = {"car" => {"tires" => true, "skis" => false}}
 nested_hash["car"]["skis"]
 > false
-'''
+```
 #### Logic
 **If, elsif, else, end**
 ```ruby
