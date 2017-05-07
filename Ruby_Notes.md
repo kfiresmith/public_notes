@@ -24,7 +24,7 @@ nested_array_foo[1][0]
 > "string two"
 nested_array_foo[1][1]
 > false
-
+```
 **Hashes**
 ```ruby
 my_hash = {"key" => "value", "old bannana" => "tasty"}
