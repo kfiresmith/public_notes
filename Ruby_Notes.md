@@ -23,6 +23,18 @@ my_hash = {"key" => "value", "old bannana" => "tasty"}
 puts my_hash["old bannana"]
 >tasty
 ```
+#### Logic
+**If, elsif, else, end**
+```ruby
+if my_var > 10
+  ...
+elsif my var < 5
+  ...
+else
+  ...
+end
+```
+
 
 ### Resources
 [Code Academy:  Free Ruby intro course](https://www.codecademy.com/learn/ruby)
