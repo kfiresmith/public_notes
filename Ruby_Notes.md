@@ -18,7 +18,10 @@ my_array = [0,1,2,3,4]
 ```
 **Hashes**
 ```ruby
-my_hash = {"key" => "value", "bannana" => "tasty"}
+my_hash = {"key" => "value", "old bannana" => "tasty"}
+
+puts my_hash["old bannana"]
+>tasty
 ```
 
 ### Resources
