@@ -1,15 +1,16 @@
 # Ruby Notes
 
 ### Basics
-#### Printing (put)
+#### Printing (puts)
 ```ruby
 puts "Some string to putput"
 ```
-#### User Input (get)
+#### User Input (gets)
 ```ruby
-input = get
+input = gets
 ```
 
 ### Resources
 [Code Academy:  Free Ruby intro course](https://www.codecademy.com/learn/ruby)
+
 [Linux Academy: Paid Ruby intro course](https://linuxacademy.com/cp/modules/view/id/32)
