@@ -34,6 +34,16 @@ else
   ...
 end
 ```
+**Case**
+```ruby
+case my_var
+  when a
+    ...
+  when b
+    ...
+  when c
+end
+```
 **One-line conditionals**
 ```ruby
 puts "var over ten" if my_var > 10
