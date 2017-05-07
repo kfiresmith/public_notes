@@ -56,6 +56,16 @@ unless my_var > 10
   puts my_var
 end
 ```
+**Test multiple conditions**
+```ruby
+if my_var == 5 && your_var ==7
+  ...
+end
+
+if my_var == 5 || your_var ==7
+  ...
+end
+```
 #### Important Methods:  Conversions
 **Convert to integer**
 ```ruby
