@@ -8,3 +8,6 @@
 [Markdown Tutorial (A quick interactive lesson)](http://www.markdowntutorial.com/)
 
 [ adam-p Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+### Misc Tips
+**Gists**  Gists are snippets or pastes, [create them here](https://gist.github.com/).
