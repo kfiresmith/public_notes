@@ -9,6 +9,17 @@ puts "Some string to putput"
 ```ruby
 input = gets
 ```
+#### Variable Types and Formatting
+**Arrays**
+```ruby
+my_empty_array = []
+my_array = [0,1,2,3,4]
+
+```
+**Hashes**
+```ruby
+my_hash = {"key" => "value", "bannana" => "tasty"}
+```
 
 ### Resources
 [Code Academy:  Free Ruby intro course](https://www.codecademy.com/learn/ruby)
