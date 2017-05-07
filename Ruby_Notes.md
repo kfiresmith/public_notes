@@ -32,6 +32,12 @@ my_hash = {"key" => "value", "old bannana" => "tasty"}
 puts my_hash["old bannana"]
 >tasty
 ```
+**Nested Hash**
+```ruby
+nested_hash = {"car" => {"tires" => true, "skis" => false}}
+nested_hash["car"]["skis"]
+> false
+'''
 #### Logic
 **If, elsif, else, end**
 ```ruby
