@@ -42,6 +42,8 @@ case my_var
   when b
     ...
   when c
+  else
+    ...
 end
 ```
 **One-line conditionals**
