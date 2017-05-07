@@ -14,8 +14,17 @@ input = gets
 ```ruby
 my_empty_array = []
 my_array = [0,1,2,3,4]
-
 ```
+**Multi-dimensional Array**
+```ruby
+nested_array_foo = [["string one", true], ["string two", false]]
+nested_array_foo[0][0]
+> "string one"
+nested_array_foo[1][0]
+> "string two"
+nested_array_foo[1][1]
+> false
+
 **Hashes**
 ```ruby
 my_hash = {"key" => "value", "old bannana" => "tasty"}
