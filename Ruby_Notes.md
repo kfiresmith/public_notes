@@ -81,7 +81,13 @@ user_input = gets.to_i
 ```ruby
 some_number.to_s
 ```
-
+#### Iterators
+**.each** (Similar to for loop)
+```ruby
+some_list.each do |my_list_item|
+  puts my_list_item
+end
+```
 
 ### Resources
 [Code Academy:  Free Ruby intro course](https://www.codecademy.com/learn/ruby)
