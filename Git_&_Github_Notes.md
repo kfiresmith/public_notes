@@ -1,6 +1,6 @@
 # Git & Github Notes
 
-#### Github Formatting Resources
+### Github Formatting Resources
 [Github Docs: Basic Writing and Formatting Syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
 [Github Docs:  Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
