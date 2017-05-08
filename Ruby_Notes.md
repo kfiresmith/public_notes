@@ -107,7 +107,11 @@ some_hash.each do |key, value|
   ... key ... value
 end
 ```
-
+### Accessing Documentation
+**Ruby Docs Index**
+```ruby
+ri -l -d /usr/share/ri/system
+```
 ### Resources
 [Code Academy:  Free Ruby intro course](https://www.codecademy.com/learn/ruby)
 
