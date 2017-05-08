@@ -1,6 +1,6 @@
 ### Ruby Arrays and Hashes Notes
 
-**Check a collection for a value**
+**Check a collection for a value: (.include?) method**
 ```ruby
 irb(main):005:0> my_array = ["foo", "bar", "zot"]
 => ["foo", "bar", "zot"]
