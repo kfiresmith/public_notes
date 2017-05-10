@@ -1,7 +1,8 @@
 ### Strings Notes
 
 **Interpolations**
-Instead of multiple statements
+
+Evaluation rather than simple concatenation
 ```ruby
 how_many = 4
 others = 3
