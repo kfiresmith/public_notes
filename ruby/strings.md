@@ -9,3 +9,11 @@ others = 3
 puts "You have #{how_many + others} apples."
 ```
 [String Interpolation](http://ruby-for-beginners.rubymonstas.org/bonus/string_interpolation.html)
+
+**Useful Methods**
+```ruby
+.upcase
+.downcase
+.split(" ") # Split each portion of a string into an array element, eg:
+array = some_var.split(";")
+```
