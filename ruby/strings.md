@@ -14,6 +14,14 @@ puts "You have #{how_many + others} apples."
 ```ruby
 .upcase
 .downcase
+
+.length
+
+.reverse
+
 .split(" ") # Split each portion of a string into an array element, eg:
-array = some_var.split(";")
+  array = some_var.split(";")
+
+str * integer -> new_str # eg:
+  "ho" * 3 #=> "ho ho ho"
 ```
