@@ -16,4 +16,5 @@ chroot(string)
 
 delete(string)
 
+exist?(file_name) # True if exists and is a dir
 ```
