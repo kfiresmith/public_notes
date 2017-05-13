@@ -18,3 +18,8 @@ delete(string)
 
 exist?(file_name) # True if exists and is a dir
 ```
+**foreach**
+```ruby
+Dir.foreach("testdir") {|x| puts "Got #{x}" }
+```
+
