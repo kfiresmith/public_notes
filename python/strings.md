@@ -4,7 +4,7 @@
 ### Interesting Methods
 **Title**
 ```python
-name= 'jimbob'
+name = 'jimbob'
 print(name.title())
 
 Jimbob
