@@ -1,6 +1,6 @@
 ## Active Directory Notes
 
-###Tips & Tricks###
+### Tips & Tricks ###
 
 **Snag a copy of the AD CA certs via ldapsearch**
 
